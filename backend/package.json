@@ -1,0 +1,30 @@
+{
+  "name": "andela-meal-app",
+  "version": "1.0.0",
+  "description": "maeal-app-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adebayo oluwafemi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femidamilola/andela-meal-app.git"
+  },
+  "keywords": [
+    "initializing",
+    "api",
+    "with",
+    "front",
+    "end"
+  ],
+  "bugs": {
+    "url": "https://github.com/femidamilola/andela-meal-app/issues"
+  },
+  "homepage": "https://github.com/femidamilola/andela-meal-app#readme"
+}
