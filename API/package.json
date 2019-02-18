@@ -1,0 +1,23 @@
+{
+  "name": "meal-booking-api",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femidamilola/My-meal-app.git"
+  },
+  "keywords": [
+    "booking",
+    "api"
+  ],
+  "author": "Adebayo femi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femidamilola/My-meal-app/issues"
+  },
+  "homepage": "https://github.com/femidamilola/My-meal-app#readme"
+}
